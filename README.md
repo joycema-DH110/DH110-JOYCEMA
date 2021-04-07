@@ -6,7 +6,8 @@ For my project, I am focusing on teaching the elderly how to use technology, bec
 ### CCLE Mobile 
 *The CCLE Mobile App is used in conjunction with the UCLA web CCLE (Common Collaboration and Learning Environment) page. It is the page where students access their course websites and materials such as a syllabus and readings. Assignments are submitted through here and grades are given here as well. It is a page where the instructor can give out information to the class as a whole.* 
 
-![Join Papa Screenshot](CCLE-Mobile.png)
+![Join Papa Screenshot](Join Papa Screenshot)
+https://www.joinpapa.com/blog/how-to-teach-technology-to-seniors
 
 #### Evaluation
 *Overall: The CCLE Mobile App has a long way to go until it measures up to the CCLE webpage. There are many striking issues and the major one being that it is not properly synched to the students schedule. If all current classes are not on the app, there is no reason in the first place to use the app. In its current state the app is not used to its full capacity. There are many consistency errors that need to be fixed along with ease of usability.*
@@ -33,8 +34,8 @@ Heuristic & Description | CCLE Heuristic Evaluation | Improvement
 ### National Weather Service
 *The National Weather Service website works in conjunction with the National Oceanic and Atmospheric Administration. They provide local and national weather forecasts along with detailed maps that contain other meteorological information on maps. They have past weather, safety, and educational material on their website.*
 
-![NWS Screenshot](Weather.png)
-https://www.weather.gov/
+![Easy Tech Seniors Screenshot](Easy Tech Seniors Screenshot)
+https://www.easytechseniors.com/ultimate-guide-to-teach-tech-to-seniors-2/
 
 #### Evaluation 
 *Overall: The National Weather Service website is not an easily navigable website. However, it is very easy to get lost in the web page. Since the website works with two corporations you never know where a link will take you. This does not make the user experience smooth or enjoyable. The designs change with almost every page change and those pages are also overwhelming with different information and designs. This website needs major improvements.*
