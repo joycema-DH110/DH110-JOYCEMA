@@ -1,12 +1,12 @@
-# Making School and Weather More Accessible  
-## Emily DiPressi - Digital Humanities 150
+# Teaching Technology to Seniors  
+## Joyce Ma - Digital Humanities 110
 
-The CCLE app was an easy choice for me, because when I first heard about the CCLE app I was very excited because I thought it was going to be something valuable and would be easier to navigate on my phone rather than the myUCLA webpage on Safari. When I first downloaded the app, however, and tried to use it, I was unimpressed, mostly by the lack of synchronization that the app had with the webpage version. The National Weather Service page was also an easy choice for me because I have started my day by looking at the weather for as long and I can remember. Throughout my years I have come across good and bad weather websites, so to evaluate the official site was a good choice. Initially the webpage seemed very overwhelming and dated. It had a lot of options to click on even on just the first page and seemed very intimidating before I started searching for anything. Each of these sites need many improvements.    
+For my project, I am focusing on teaching the elderly how to use technology, because it is an important skill to have in a world where technology is constantly evolving. The first website I chose was Join Papa, because    
 
 ### CCLE Mobile 
 *The CCLE Mobile App is used in conjunction with the UCLA web CCLE (Common Collaboration and Learning Environment) page. It is the page where students access their course websites and materials such as a syllabus and readings. Assignments are submitted through here and grades are given here as well. It is a page where the instructor can give out information to the class as a whole.* 
 
-![CCLE Mobile Screenshot](CCLE-Mobile.png)
+![Join Papa Screenshot](CCLE-Mobile.png)
 
 #### Evaluation
 *Overall: The CCLE Mobile App has a long way to go until it measures up to the CCLE webpage. There are many striking issues and the major one being that it is not properly synched to the students schedule. If all current classes are not on the app, there is no reason in the first place to use the app. In its current state the app is not used to its full capacity. There are many consistency errors that need to be fixed along with ease of usability.*
