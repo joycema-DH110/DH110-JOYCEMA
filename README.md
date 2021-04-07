@@ -1,12 +1,12 @@
 # Teaching Technology to Seniors  
 ## Joyce Ma - Digital Humanities 110
 
-For my project, I am focusing on teaching the elderly how to use technology, because it is an important skill to have in a world where technology is constantly evolving. The first website I chose was Join Papa, because    
+For my project, I am focusing on teaching the elderly how to use technology, because it is an important skill to have in a world where technology is constantly evolving. The two websites I chose to analyze were displayed on the first page of Google search results, b   
 
 ### CCLE Mobile 
 *The CCLE Mobile App is used in conjunction with the UCLA web CCLE (Common Collaboration and Learning Environment) page. It is the page where students access their course websites and materials such as a syllabus and readings. Assignments are submitted through here and grades are given here as well. It is a page where the instructor can give out information to the class as a whole.* 
 
-![Join Papa Screenshot](Join Papa Screenshot)
+![Join Papa Screenshot](Join Papa Screenshot.png)
 https://www.joinpapa.com/blog/how-to-teach-technology-to-seniors
 
 #### Evaluation
@@ -34,7 +34,7 @@ Heuristic & Description | CCLE Heuristic Evaluation | Improvement
 ### National Weather Service
 *The National Weather Service website works in conjunction with the National Oceanic and Atmospheric Administration. They provide local and national weather forecasts along with detailed maps that contain other meteorological information on maps. They have past weather, safety, and educational material on their website.*
 
-![Easy Tech Seniors Screenshot](Easy Tech Seniors Screenshot)
+![Easy Tech Seniors Screenshot](Easy Tech Seniors Screenshot.png)
 https://www.easytechseniors.com/ultimate-guide-to-teach-tech-to-seniors-2/
 
 #### Evaluation 
