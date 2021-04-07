@@ -57,3 +57,5 @@ Heuristic & Description | Easy Tech Seniors Heuristic Evaluation | Improvement
 1. Top priority: Help and documentation, Error prevention, Flexibility and efficiency of use
 2. Important to fix: Visibility of system status, User control and freedom, Aesthetic and minimalist design
 3. Small Inconvenience: Match between system and real world, Consistency and standards, Help users recognize diagnose and recover from errors
+
+Template Credit: Emily DePressi
