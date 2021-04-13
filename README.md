@@ -6,11 +6,11 @@
 ### User testing
 GoNannies.com is a website for seniors to find caregivers to help them in their old age. Users are able to filter and sort caregivers based on location, age, living arrangement, availability, language, experience, and more. Users are then able to contact the nannies for employment or add them to a watchlist for future reference. 
 
-We will be performing a usability test for GoNannies.com to evaluate how effective and efficient the site is to navigate and complete tasks with. Through this test, we will be able to identify any flaws in usability to see what works well with the site and what is ineffective. The usability test will be recorded for behavioral analysis. In the test, users were asked to complete three tasks which included 1) finding information about background checks, 2) finding a caregiver that matches a specific set of requirements, and 3) finding information regarding interview questions.
+We will be performing a usability test for GoNannies.com to evaluate how effective and efficient the site is to navigate and complete tasks with. Through this test, we will be able to identify any flaws in usability to see what works well with the site and what is ineffective. The purpose of the test is to find out how to improve the website from the perspective of the user. The usability test will be recorded for behavioral analysis. In the test, users were asked to complete three tasks which included 1) finding information about background checks, 2) finding a caregiver that matches a specific set of requirements, and 3) finding information regarding interview questions.
 
 In the heuristic analysis I conducted on GoNannies.com, I found several usability issues. The first one was the overall aesthetic of the website. I found the website to be messy and cluttered, which may pose threats for seniors who are unfamiliar with technology. The font is also very small and sometimes the color of the words do not contrast the background enough. The second one was a lack of user control and freedom. There are no options for undo or redo buttons, and oftentimes no error prevention measures for submitting forms. Lastly, there is barely any communication with users about the status of the system and it is difficult for users to guage where they are and how the system is functioning.
 
-I performed my usability test on my laptop in my apartment. I used ActivePresenter to record the test, which records the screen, audio, the participant, and myself. 
+I performed my usability test on my laptop in my apartment. I used ActivePresenter to record the test, which records the screen, audio, the participant, and myself. This is a pilot test to test the setting and the materials.
 
 The process of the usability test was as follows:
 - Intro
@@ -34,7 +34,7 @@ The following results were measured (many using the seven-point Likert scale):
 
 ------
 ## User testing materials
-The usability materials [here](https://forms.gle/XuDBtqvDZCQWbQP39).
+The usability materials [here](https://docs.google.com/forms/d/e/1FAIpQLScQoQTk4qxJNKPTnd_Zo96A-z_ZDGFel8HuRzbnua2m0Ga02w/viewform?vc=0&c=0&w=1&flr=0&gxids=7628).
 
 ------
 ## User testing video
