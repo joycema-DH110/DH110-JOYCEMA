@@ -12,25 +12,7 @@ In the heuristic analysis I conducted on GoNannies.com, I found several usabilit
 
 I performed my usability test on my laptop in my apartment. I used ActivePresenter to record the test, which records the screen, audio, the participant, and myself. This is a pilot test to test the setting and the materials.
 
-The process of the usability test was as follows:
-- Intro
-- Background questions
-- Previous experience questions
-- Pre-test questions
-- Tasks
-- Post-test questions
-- SUS questionnaire
-- Product satisfaction card
-- Demographics
-
-The following results were measured (many using the seven-point Likert scale):
-- Ease of use
-- Frequency of use
-- Learn ability
-- Trustworthiness
-- Site organization
-- Site content
-- How the user felt after using site
+The usability test begings with an introduction to explain to the participant the website they are testing and some basic information about the session. After, the user will give informed consent and agree with the terms. The user then answers background questions and pre-test questions. Next, the user will navigate the site to complete 3 tasks while thinking outloud to show their thought process. A post test questionnaire is taken after the tasks, with all the questions answered on a likert scale. The user then completes the SUS questionnaire and selects 5 adjectives from the product satisfaction card. Finally, demographic data is collected confidentially from the user. 
 
 ------
 ## User testing materials
