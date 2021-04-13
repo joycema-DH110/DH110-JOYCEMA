@@ -10,7 +10,7 @@ We will be performing a usability test for GoNannies.com to evaluate how effecti
 
 In the heuristic analysis I conducted on GoNannies.com, I found several usability issues. The first one was the overall aesthetic of the website. I found the website to be messy and cluttered, which may pose threats for seniors who are unfamiliar with technology. The font is also very small and sometimes the color of the words do not contrast the background enough. The second one was a lack of user control and freedom. There are no options for undo or redo buttons, and oftentimes no error prevention measures for submitting forms. Lastly, there is barely any communication with users about the status of the system and it is difficult for users to guage where they are and how the system is functioning.
 
-For my usability test, I performed it in my apartment using my personal laptop. I used ActivePresenter to record my usability test. The session recorded the screen, me and the user, and audio. This usability test is a pilot test, and my roommate was the user.
+I performed my usability test on my laptop in my apartment. I used ActivePresenter to record the test, which records the screen, audio, the participant, and myself. 
 
 The process of the usability test was as follows:
 - Intro
