@@ -20,10 +20,7 @@ The usability materials [here](https://docs.google.com/forms/d/e/1FAIpQLScQoQTk4
 
 ------
 ## User testing video
-The pilot test video and screen recording [here](
-Uploading DH 110 UT Test.mp4…
-
-).
+The pilot test video and screen recording [here](https://drive.google.com/file/d/12gYJr7UeLXbd43dcpjhcdbJGak-mKOK6/view?usp=sharing).
 
 
 ------
