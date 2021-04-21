@@ -1,30 +1,68 @@
-# Assignment02-DH110
+# Assignment03-DH110
 ## Joyce Ma
 
---------
+## Step 01: Specify the main design challenge
 
-### User testing
-GoNannies.com is a website for seniors to find caregivers to help them in their old age. Users are able to filter and sort caregivers based on location, age, living arrangement, availability, language, experience, and more. Users are then able to contact the nannies for employment or add them to a watchlist for future reference. 
+### What is the main activity your project would support the users?
+My project is meant to support users by allowing them to browse senior care websites with more ease and confidence. Because technology is oftentimes a challenge for the elderly, I hope my project will serve to improve the accessibility of senior care and help the eldery find what they are looking for efficiently. 
+  
+### What is the basic need involved for that activity? 
+This activity fulfills the user’s basic need for safety because it allows users to connect with caregivers that will be able to support them in their old age. Users will be able to feel like their needs are being tended to and that they no longer have to worry about taking care of themselves.
+  
+### What is(are) the traditional/current solution(s) to satisfy the needs?
+The current solutions to satisfy the need for senior care are apps and websites that offer a database of senior caregivers users can reach out to and hire. These websites and apps oftentimes filter caregivers based on your needs and requirements, but they can sometimes be difficult or confusing to use.
 
-We will be performing a usability test for GoNannies.com to evaluate how effective and efficient the site is to navigate and complete tasks with. Through this test, we will be able to identify any flaws in usability to see what works well with the site and what is ineffective. The purpose of the test is to find out how to improve the website from the perspective of the user. The usability test will be recorded for behavioral analysis. In the test, users were asked to complete three tasks which included 1) finding information about background checks, 2) finding a caregiver that matches a specific set of requirements, and 3) finding information regarding interview questions.
+### What is(are) the limitation(s) that possibly would be improved with (digital) technology?
+The current limitations to finding senior care is not having a comprehensive databse of available caregivers in your area to look through. Because caregivers and seniors sign up to different websites and apps, there is a big possibility users are unable to complete list of caregivers they can hire, which can lead to potentially missing out on someone who is perfect for your needs.
 
-In the heuristic analysis I conducted on GoNannies.com, I found several usability issues. The first one was the overall aesthetic of the website. I found the website to be messy and cluttered, which may pose threats for seniors who are unfamiliar with technology. The font is also very small and sometimes the color of the words do not contrast the background enough. The second one was a lack of user control and freedom. There are no options for undo or redo buttons, and oftentimes no error prevention measures for submitting forms. Lastly, there is barely any communication with users about the status of the system and it is difficult for users to guage where they are and how the system is functioning.
+## Step02: Target users 
 
-I performed my usability test on my laptop in my apartment. I used ActivePresenter to record the test, which records the screen, audio, the participant, and myself. This is a pilot test to test the setting and the materials.
+### What are the characteristics of users? (ex. demographics, preference, expertise) 
+Demographic: people interested in social causes, potentially more socially aware with refugee and asylum seeking topics 
+Preference: users prefer spending their time helping their community, interested in engaging with human rights 
+Expertise: no expertise is necessarily required to get started 
 
-The usability test begings with an introduction to explain to the participant the website they are testing and some basic information about the session. After, the user will give informed consent and agree with the terms. The user then answers background questions and pre-test questions. Next, the user will navigate the site to complete 3 tasks while thinking outloud to show their thought process. A post test questionnaire is taken after the tasks, with all the questions answered on a likert scale. The user then completes the SUS questionnaire and selects 5 adjectives from the product satisfaction card. Finally, demographic data is collected confidentially from the user. 
+### Where would the users do that activity? (i.e., context of use)
+There are several ways users can engage with nonprofit organizations such as The Advocates for Human Rights. Although a lot of the volunteering is done local to the nonprofit, there are online resources to expand one’s knowledge and reach regarding asylum seekers and refugees. Users would most likely engage with the website from their home, not necessarily interacting with anyone. This is why an appropriately engaging design is crucial to retaining volunteers. In terms of the actual goal of the nonprofit, there are local events as well as a variety of resources and events that are more central to the legal system so volunteers can engage wherever they may be in the United States. There are varying places users would do the activity whether that is defined as engaging with the website or volunteerism. 
 
-------
-## User testing materials
-The usability materials [here](https://docs.google.com/forms/d/e/1FAIpQLScQoQTk4qxJNKPTnd_Zo96A-z_ZDGFel8HuRzbnua2m0Ga02w/viewform?vc=0&c=0&w=1&flr=0&gxids=7628).
+### What would the users do to complete that activity? (e.g., goal, operation, method, action)
+Users would search the internet for nonprofit organizations about refugee or asylum seekers if they were looking for these types of organizations. For opportunities within the Advocates for Human Rights, they would search the volunteer tab and look through opportunities there to engage with their organization and events. 
 
-------
-## User testing video
-The pilot test video and screen recording [here](https://drive.google.com/file/d/12gYJr7UeLXbd43dcpjhcdbJGak-mKOK6/view?usp=sharing).
+## Step03: Pick research methods 
+The observation method I employed was participatory observation. I had several activities with my interviewee to explore the social issue and his potential interest as well as his reaction to the topic. 
+
+## Interview Guide
+Please find the script [here](https://docs.google.com/document/d/1qMapQIPOPCT2fXgL4S3KPBZqUbujj4iNM18SgTjJTBo/edit?usp=sharing).
+
+Please find the recordings below: 
+[Part 1](https://drive.google.com/open?id=1Ki-6MIlA_BE4e8eHpJIQWJVxbqmKf5je).
+[Part 2](https://drive.google.com/file/d/1RD72k4Kd0iDspR7sE_tUG5Xy32JIN1pJ/view?usp=sharing).
+[Part 3](https://drive.google.com/open?id=19zQ2kqVG6BdBHI_-dWLe1WKl5Zab7NMK).
+
+Please find the transcription [here](https://docs.google.com/document/d/1ytKMT4BO7PxH1Lx1hgVyCloTe6Wd2TtrG2J8VY6HMN4/edit?usp=sharing).
+
+## Insights from the Interview 
+### How important is it to you to volunteer in a group? 
+Part 1 // 11:00 
+
+I definitely think that [volunteering with] a group makes me feel like I'm a part of something. And it kind of shows that like it's not just me caring about it, there are multiple people that care, and that we want to show that, hey, there is already there's this family or this group that wants to make a change, and we want you to join that change. So I definitely think that having a group organization is definitely almost vital to for social change.
+
+### What do you think are some potential pros to volunteering with a small organization versus a larger organization? 
+Part 1 // 14:29 
+
+I definitely think that when you're volunteering with a smaller organization, you definitely have more of a sense of community within your organization, and you can kind of get to know how the organization is really making a difference on a more personal level. So I definitely think that that's a pro but I also think that with a smaller organization, you likely won't be able to make as much change as you would like, as if you were to have a larger organization where you trade off something personal experience and that personal connection to the organization for the chance that having a greater impact
+
+### What are your thoughts after reading the client story? How did it make you feel? 
+Part 2 // 12:40  
+
+I initially chose it because I know that China has very heavy censorship, and they have denied that Tianmen happened. So that just hearing of what happened Tianmen square back in the late 80s iinitially drew me in. Reading Mr. Wu’s story definitely made me angry because he would face imprisonment if you were to go back. But I'm also somewhat angry because even though he's gone through this process for years at this point, and he's just worked very hard with multiple attorneys through his organization, he still wasn't granted asylum. That made me angry at how inefficient the immigration process is in America. And it kind of ended on a sad note that
+he wasn't able to reunite with his family. That kind of made me feel like I need to help. It somewhat humanized Mr. W to where I feel a need to help people such as Mr. Wu who are affected by this crisis.
 
 
-------
-## Reflection
-During the pilot test, I gained more insight about the issues GoNannies.com faces in terms of usability. I noticed that because the site was so cluttered and distracting, my participant sometimes had trouble completing the tasks quickly and efficiently because he had to spend time looking through everything. The formatting and aesthetic of the site also changed when you clicked on a link to go to a new page, which could be seen as confusing and forces the user to relearn how to use the site every time they leave the page. Overall, the website can be cleaned up and organized better to make it easier for seniors to access, especially if they are unfamiliar with technology.
+### [After completing activities] Does reading more about the stories affect how connected you feel to the issue? 
+Part 3 // 1:04  
 
-What went well was the participant was able to successfully complete all parts of all 3 tasks. The test ran smoothly and the participant was able to understand and answer all of the questions without supplmental questions about the material. The recording software also worked well and allowed me to capture the video, audio, and screenrecording. The environment was clean and quiet, which allowed for a good video to hear and see the participant's reactions. What did not go as well was the fact that I found it difficult to keep a straight face and remain unbiased sometimes during the test. The participant also did not think out loud too often and did not really elaborate on his answers. In the future, I will perform the test in a more serious environment for a more test like atmosphere. I will also prompt the participant with questions more and remind him to explain his thought process to receive more information for the test.
+I definitely think that by having the names of lawyers creates that personal connection between you, the reader and the organization themselves, and helps show that it's not just like this big corporation, but rather, it's people working usually long hours, so that they can make a difference in the world. And it kind of makes me feel like I am somewhat obliged to do like to support them. 
+
+
+## Reflection 
