@@ -18,21 +18,21 @@ The current limitations to finding senior care is not having a comprehensive dat
 ## Step02: Target users 
 
 ### What are the characteristics of users? (ex. demographics, preference, expertise) 
-Demographic: people interested in social causes, potentially more socially aware with refugee and asylum seeking topics 
-Preference: users prefer spending their time helping their community, interested in engaging with human rights 
-Expertise: no expertise is necessarily required to get started 
+Demographic: elderly people looking for senior care, friends and family of seniors who want to find their loved ones proper care 
+Preference: users who are genuinely interested in finding senior care and are ready to hire a caregiver
+Expertise: users do not have to have previous experience or expertise to use this application
 
 ### Where would the users do that activity? (i.e., context of use)
-There are several ways users can engage with nonprofit organizations such as The Advocates for Human Rights. Although a lot of the volunteering is done local to the nonprofit, there are online resources to expand one’s knowledge and reach regarding asylum seekers and refugees. Users would most likely engage with the website from their home, not necessarily interacting with anyone. This is why an appropriately engaging design is crucial to retaining volunteers. In terms of the actual goal of the nonprofit, there are local events as well as a variety of resources and events that are more central to the legal system so volunteers can engage wherever they may be in the United States. There are varying places users would do the activity whether that is defined as engaging with the website or volunteerism. 
+Users can look for senior care in person at care facilities or online through websites and apps. Users can filter through caregivers they are interested in and that fit their specifications to then hire them for work. 
 
 ### What would the users do to complete that activity? (e.g., goal, operation, method, action)
-Users would search the internet for nonprofit organizations about refugee or asylum seekers if they were looking for these types of organizations. For opportunities within the Advocates for Human Rights, they would search the volunteer tab and look through opportunities there to engage with their organization and events. 
+Users would search the internet or go to local care facilities to identify caregivers they want to take care of themselves or their loved ones. Users could also ask for recommendations from friends or family that they trust. 
 
 ## Step03: Pick research methods 
-The observation method I employed was participatory observation. I had several activities with my interviewee to explore the social issue and his potential interest as well as his reaction to the topic. 
+The observation method I chose was participatory observation. I had my participant engage in a few activites to see his reaction and his experience with senior care websites. Ideally, my participant would have been an elderly person. Unfortunately, my elderly family members do not speak English and due to the pandemic, I thought it would be best to not reach out to random participants on the street.  
 
 ## Interview Guide
-Please find the script [here](https://docs.google.com/document/d/1qMapQIPOPCT2fXgL4S3KPBZqUbujj4iNM18SgTjJTBo/edit?usp=sharing).
+Please find the script [here](https://docs.google.com/document/d/1k_bZke-5l1Jl4IPVYPZJ29813NAieeTh9I8M3iyB9hI/edit?usp=sharing).
 
 Please find the recordings below: 
 [Part 1](https://drive.google.com/open?id=1Ki-6MIlA_BE4e8eHpJIQWJVxbqmKf5je).
