@@ -39,27 +39,32 @@ Please find the recording [here](https://drive.google.com/file/d/1RmXkxpXWzNUXTY
 Please find the transcription [here](https://docs.google.com/document/d/1okSenKOPumIDoh4cmVWzKKSRvgMd5eIyMuQCUrmiNL4/edit?usp=sharing).
 
 ## Insights from the Interview 
-### How important is it to you to volunteer in a group? 
-Part 1 // 11:00 
+### What do you like and dislike about the current ways that you are able to find senior care? 
+2:51 
 
-I definitely think that [volunteering with] a group makes me feel like I'm a part of something. And it kind of shows that like it's not just me caring about it, there are multiple people that care, and that we want to show that, hey, there is already there's this family or this group that wants to make a change, and we want you to join that change. So I definitely think that having a group organization is definitely almost vital to for social change.
+it's just good that there's a lot of options and there's a lot of ease of access, especially now with how the internet works. It's really easy to findresources. And then dislike, I guess not really anything. It's just hard to find good option because of how much choice you're given.
 
-### What do you think are some potential pros to volunteering with a small organization versus a larger organization? 
-Part 1 // 14:29 
+### how much time would you ideally like to spend on looking for a caregiver?
+5:56 
 
-I definitely think that when you're volunteering with a smaller organization, you definitely have more of a sense of community within your organization, and you can kind of get to know how the organization is really making a difference on a more personal level. So I definitely think that that's a pro but I also think that with a smaller organization, you likely won't be able to make as much change as you would like, as if you were to have a larger organization where you trade off something personal experience and that personal connection to the organization for the chance that having a greater impact
+I would definitely want to be careful. I don't know. I guess it's hard to gauge maybe a few hours, just to make sure that I'm, I know specifically who I want, and have some time to talk to them and get to know that they're the best they'd be compatible with, with the needs of the person that needs care.
 
-### What are your thoughts after reading the client story? How did it make you feel? 
-Part 2 // 12:40  
+### What is the most difficult part about finding a senior caregiver and your experience and then on the website in general?
+9:35  
 
-I initially chose it because I know that China has very heavy censorship, and they have denied that Tianmen happened. So that just hearing of what happened Tianmen square back in the late 80s iinitially drew me in. Reading Mr. Wu’s story definitely made me angry because he would face imprisonment if you were to go back. But I'm also somewhat angry because even though he's gone through this process for years at this point, and he's just worked very hard with multiple attorneys through his organization, he still wasn't granted asylum. That made me angry at how inefficient the immigration process is in America. And it kind of ended on a sad note that
-he wasn't able to reunite with his family. That kind of made me feel like I need to help. It somewhat humanized Mr. W to where I feel a need to help people such as Mr. Wu who are affected by this crisis.
+Just my experience, I guess, the wide range of options just makes it hard to really boil it down to like a few options to choose from. It's just, I guess, when you have so many options, it just becomes inherently difficult to find what you what you think is the best option. And obviously, everyone wants the best option for themselves, so choosing can be difficult.
 
 
-### [After completing activities] Does reading more about the stories affect how connected you feel to the issue? 
-Part 3 // 1:04  
+### What are some limitations of the website that you noticed? 
+10:34  
 
-I definitely think that by having the names of lawyers creates that personal connection between you, the reader and the organization themselves, and helps show that it's not just like this big corporation, but rather, it's people working usually long hours, so that they can make a difference in the world. And it kind of makes me feel like I am somewhat obliged to do like to support them. 
+The interface, the graphic interface design was just a bit outdated. And then maybe for for people who are seeking care for themselves, or people who don't have that much experience with the internet might find it a bit more difficult to navigate.
+
+11:06
+
+Some of the text is a bit small, and the front page doesn't make it that easy to find specifically what you're looking for. It just feels a bit disorganized. 
+
+
 
 
 ## Reflection 
