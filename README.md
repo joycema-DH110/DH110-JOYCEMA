@@ -34,10 +34,7 @@ The observation method I chose was participatory observation. I had my participa
 ## Interview Guide
 Please find the script [here](https://docs.google.com/document/d/1k_bZke-5l1Jl4IPVYPZJ29813NAieeTh9I8M3iyB9hI/edit?usp=sharing).
 
-Please find the recordings below: 
-[Part 1](https://drive.google.com/open?id=1Ki-6MIlA_BE4e8eHpJIQWJVxbqmKf5je).
-[Part 2](https://drive.google.com/file/d/1RD72k4Kd0iDspR7sE_tUG5Xy32JIN1pJ/view?usp=sharing).
-[Part 3](https://drive.google.com/open?id=19zQ2kqVG6BdBHI_-dWLe1WKl5Zab7NMK).
+Please find the recording [here](https://drive.google.com/file/d/1RmXkxpXWzNUXTYAhOHXdXzrgpf_MxodT/view?usp=sharing).
 
 Please find the transcription [here](https://docs.google.com/document/d/1ytKMT4BO7PxH1Lx1hgVyCloTe6Wd2TtrG2J8VY6HMN4/edit?usp=sharing).
 
