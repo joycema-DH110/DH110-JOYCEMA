@@ -68,3 +68,5 @@ Some of the text is a bit small, and the front page doesn't make it that easy to
 
 
 ## Reflection 
+
+I thought it was very interesting and helpful to interview someone and guage how they would approach looking for a senior caregiver through observation and asking them questions about their thoughts and opinions. An interesting point the participant brought up was how having too many options for caregivers was overwhelming and made it difficult to narrow down. I originally thought the more options the better because the user would be able to really pick and choose, but it was good to interview someone to help me see a different perspective. Unfortunately, I had to conduct the interview over Zoom due to the pandemic and I was unable to find someone elderly to interview, but I thought the interview still went smoothly with my participant. The participant expressed concerns about difficulties seniors might experience while navigating the site so next time, I would try to find a senior participant to see how they do with the same tasks and questions.
