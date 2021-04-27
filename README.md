@@ -10,7 +10,6 @@ UX storytelling is important because it helps us visualize and understand our ta
 
 3. Help and Contact Amazon - a clear help button that will allow users to find hidden or hard-to-find pages and an easy way to contact Amazon asking for support
 
-Extra Credit Ideation: https://docs.google.com/presentation/d/1_HPcW9-rQjQoK8KNSx072JgRF_1tB-KT7muksgsaUwI/edit?usp=sharing
 
 ## Persona and Empathy Maps
 1. Austin Chen
