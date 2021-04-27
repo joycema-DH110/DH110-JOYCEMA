@@ -4,11 +4,9 @@ UX storytelling is important because it helps us visualize and understand our ta
 
 
 ## Design Features
-1. Filters - make filters collapsable by category so all different filter choices are visible on one screen and can be used when needed
+1. Filters - include more specific filters and organize into an easy menu
 
-2. Results Categorization - breaks down a large list of results into sub-categories that group together similar items
-
-3. Help and Contact Amazon - a clear help button that will allow users to find hidden or hard-to-find pages and an easy way to contact Amazon asking for support
+2. Caregiver profiles - make background information on caregivers more accessible
 
 
 ## Persona and Empathy Maps
