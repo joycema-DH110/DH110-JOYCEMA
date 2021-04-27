@@ -1,6 +1,6 @@
 # DH110-ASSIGNMENT04
 ## Purpose of UX Storytelling
-UX storytelling puts a human face on dry data and research and ensures that the improvements made in the product are user-centered. A good experience is like telling a good story - it places our product into a scenerio and allows us to visualize our product being used. From there, we will be able to understand why our product is used, how it can be used to resolve conflicts in our user's lives, and how users may feel when they use the product. UX storytelling requires developers to define the user and create stories around them and their goals. Developers are able to empathize with these personalized stories to better understand their user's emotional experiences as they use the product. In all, UX storytelling provides insight into potential users, allows for a simplified and personable method of presenting product information, and highlights the potential user scenerios applicable to the product.
+UX storytelling is important because it helps us visualize and understand our target audience better through the creation of personas and situations. By analyzing the things members of our target audience say, think, do, and feel, we can view our product from the eyes of a user to tailor the product to improve overall user experience. UX storytelling offers a much more comprehensive outlook on the users themselves and help us shed our biases, which allows us to create the best product we can with the given information. 
 
 
 ## Design Features
