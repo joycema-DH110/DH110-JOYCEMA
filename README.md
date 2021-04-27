@@ -10,8 +10,8 @@ UX storytelling is important because it helps us visualize and understand our ta
 
 
 ## Persona and Empathy Maps
-1. Austin Chen
-![austin persona](austinpersona.png)
+1. Betty Jackson
+![BettyJacksonPersona](BettyJacksonPersona.pdf)
 ![austin empathy](austinempathy.png)
 
 2. Chelsea Smith
