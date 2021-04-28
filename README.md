@@ -14,13 +14,11 @@ UX storytelling is important because it helps us visualize and understand our ta
 ![Betty_Jackson_Persona](BettyJacksonPersona1.jpg)
 ![Betty_Jackson_Empathy_Map](BettyJacksonEmpathyMap.jpg)
 
-2. Chelsea Smith
-![chelsea persona](chelseapersona.png)
+2. Elijah Prince
+![Elijah_Prince_Persona](ElijahPrincePersona.jpg)
 ![chelsea empathy](chelseaempathy.png)
 
-3. Mary Benson
-![mary persona](marypersona.png)
-![mary empathy](maryempathy.png)
+
 ## Scenerios and Jounrey Maps
 ### Austin's Scenario
 • Austin Chen is a second-year undergraduate student at UCLA. He still lives on The Hill (the dorms) and is a Computer Science and Statistics double major, meaning he has double the amount of work to study. Before college, he used to play sports, but after picking up an additional major, he has to spend most of his day and free time studying for his exam or working on an assignment. He never has time to go to the gym. However, he still wants to keep active during his study breaks and is looking to purchase exercise equipment to use in his dorm room. Since he does not have enough free time to leave campus to uber to the nearest sports store, which is a 50 min. drive away, and he also does not want to carry any heavy equipment to his dorm, he decides to shop online. Austin does not have a specific sports equipment he has in mind, but he hopes to find something quick so he can get back to studying.
