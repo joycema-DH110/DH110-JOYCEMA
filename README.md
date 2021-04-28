@@ -16,7 +16,7 @@ UX storytelling is important because it helps us visualize and understand our ta
 
 2. Elijah Prince
 ![Elijah_Prince_Persona](ElijahPrincePersona.jpg)
-![chelsea empathy](chelseaempathy.png)
+![Elijah_Prince_Empathy_Map](ElijahPrinceEmpathyMap.jpg)
 
 
 ## Scenerios and Jounrey Maps
