@@ -5,15 +5,10 @@ DH110: User Experience Design
 
 ## Project Description
 
-The current project seeks to solve user difficulties associated with travel planning. The target community is a community of travelers that seek adventure, travel to new places, spend time with friends and family, and never feel settled in one place. These users are a group of people with long, drawn-out network ties in multiple cities, countries, and continents looking to explore. Based on user research, the following features seek to solve the common constraints of travel-planning.
+My project focuses on developing a platform that allows senior citizens to find senior caregivers easily and efficiently. Because many of the current options are outdated, cluttered, confusing, or not specific enough, I aim to combat all these issues when developing my prototype. The type of user persona I imagine will be using my website/app can be characterized as elderly people who can no longer take care of themselves, who are not super proficient with technology, and who want to look for caregivers themselves instead of asking a friend or family for help. The website/app I aim to build will be helpful and easy for seniors to use themselves. 
 
-1. **Price Tool** - suggests what details of your trip to change (such as travel dates, location, airport) in order to fit a designated budget and price range <br/>
-2. **Minimized Booking Process** - compares all airlines and websites and arranges flights by price visibility with personal recommendations, takes user directly to checkout after selecting flights <br/>
-3. **Recommendation Tool** - Summarizes main points of customer reviews, shows highly recommended
+The purpose of the low fidelity prototype is to create a general layout of how my platform will look and function. By mapping out the general flow of the screens, I will be able to gain a better understanding of how everything will look in the end and where the problem areas are. By testing the low fidelity prototype, I can see which features are actually functionable and useful and which are confusing and unnecessary. The test will allow me to see my product through the eyes of the user to gain important insight which can be applied to improve user experience.
 
-Target users value ease of use, previous customer satisfaction, and cost-efficient travel options. Additionally, they prefer a desktop travel user experience over a mobile travel user experience. *How can mobile technology enhance the decision-making challenges of travel booking, while valuing ease of use and cost-effectiveness?* User personas were created based on the premise of an undergraduate college student looking for cost-efficient deals to various travel destinations, a young professional searching for last-minute flight deals to visit his significant other, and a freelance designer seeking bundle deals with high-rated accommodations for business trips. 
-
-The purpose of this low-fidelity prototype is to test the functionality and flow of these features integrated with the current process of booking a trip on a mobile travel app. 
 
 ## Tasks
 The low-fidelity prototype supports the following tasks:
