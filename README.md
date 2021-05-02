@@ -11,12 +11,11 @@ The purpose of the low fidelity prototype is to create a general layout of how m
 
 
 ## Tasks
-The low-fidelity prototype supports the following tasks:
-1. Input search field
-2. Select an inbound flight
-3. Select an outbound flight
-4. Select a hotel
-5. Pay for and book the trip 
+This low-fidelity prototype aims to support these two tasks:
+
+1. Using a specialized filter to help narrow down caregiver options
+
+2. Organizing caregiver profiles to make background information more accessible
 
 ## Wireframes and Wireflow
 ![Wireflow Stage 1](https://user-images.githubusercontent.com/59623155/74673232-b0520980-5163-11ea-8b9e-a3696b4758b9.jpg)
