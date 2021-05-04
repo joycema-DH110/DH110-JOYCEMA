@@ -19,9 +19,9 @@ This low-fidelity prototype aims to support these two tasks:
 
 ## Wireframes and Wireflow
 
-![wireflow1](wireflow1.jpg)
+![wireframe1](wireframe1.jpg)
 
-![wireflow2](wireflow2.jpg)
+![wireframe2](wireframe2.jpg)
 
 
 
