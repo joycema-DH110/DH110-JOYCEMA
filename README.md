@@ -29,6 +29,8 @@ This low-fidelity prototype aims to support these two tasks:
 
 Both wireframe testing videos can be found [here](https://drive.google.com/file/d/1gD1JWs3l9KELAiOlHeBP5IGmkUFdSoSP/view?usp=sharing) and [here](https://drive.google.com/file/d/1nUeTWztGBFU5JfQkum5VOCzrdpGZ3dkj/view?usp=sharing).
 
+The user was successfully able to complete the tasks presented in the wireframe because the flow was simple and the screens had an obvious progression of events. I did not note much confusion during the testing, and the user seemed to understand what was happening without my help. Overall, the testing was a success. 
+
 
 
 ## Reflection 
