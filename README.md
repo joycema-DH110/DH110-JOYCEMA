@@ -34,7 +34,7 @@ Link to Interactive Prototype: https://www.figma.com/proto/7pH1Hx47cAEklWXNQFv7l
 
 **Organizing caregiver profiles to make background information more accessible**
 
-![Task_2_Wireflow](Task2Wireflow.jpg)
+![Task_2_Wireflow](Task2Wireflows.jpg)
 
 Link to Interactive Prototype: https://www.figma.com/proto/HQPCveykicatzy1HlmK6po/Untitled?node-id=1%3A6&scaling=scale-down&page-id=0%3A1
 
