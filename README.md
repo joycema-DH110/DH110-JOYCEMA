@@ -44,7 +44,9 @@ For my app, I wanted to make it simple and accessible for seniors to use. After 
 
 ## Impression Test
 
+![Color_Contrast_1](ColorContrast1.jpg)
 
+![Color_Contrast_2](ColorContrast2.jpg)
 
 ## Accessibility Check
 
