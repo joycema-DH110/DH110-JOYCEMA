@@ -50,7 +50,7 @@ I did try to test my prototype for color accessibility, but because I was utiliz
 
 ## Interactive Prototype
 
-* [Task 1 Prototype](https://www.figma.com/proto/cS0luA6QUbMQqn4F48rpfN/Interaction-1?node-id=1%3A26&scaling=scale-down)
+* [Task 1 Prototype](Task1Wireframe.png)
 
 * [Task 2 Prototype](https://www.figma.com/proto/Fg2RfJ8fe7vmDP34aUQK0Z/Interaction-2?node-id=1%3A2&scaling=scale-down)
 
