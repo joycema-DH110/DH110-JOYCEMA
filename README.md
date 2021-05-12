@@ -58,5 +58,6 @@ The colors in my design are dark blue/green (25424C) which is mainly used for te
 
 ## Design System
 
+**Font**
 
 ## Reflection
