@@ -21,7 +21,7 @@
 ## Wireframes
 
 **Using a specialized filter to help narrow down caregiver options**
-[Task 1 Prototype](Task1Wireframe.png)
+[Task1Wireframe](Task1Wireframe.png)
 
 **Organizing caregiver profiles to make background information more accessible**
 [Task 2 Prototype](https://www.figma.com/proto/cS0luA6QUbMQqn4F48rpfN/Interaction-1?node-id=1%3A26&scaling=scale-down)
