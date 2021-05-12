@@ -20,6 +20,8 @@
 
 ## Screen Design
 
+![Variations](Variations.jpg)
+
 ## Wireflows
 
 **Using a specialized filter to help narrow down caregiver options**
