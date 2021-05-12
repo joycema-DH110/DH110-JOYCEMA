@@ -46,7 +46,7 @@ For my app, I wanted to make it simple and accessible for seniors to use. After 
 
 ![Color_Contrast_1](ColorContrast1.jpg)
 
-![Color_Contrast_2](ColorContrast2.jpg)
+![Color_Contrast_2](ColorContrast2.png)
 
 ## Accessibility Check
 
