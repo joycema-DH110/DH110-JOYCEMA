@@ -1,11 +1,6 @@
 # DH110 Assignment 6: High-Fidelity Prototype (Part One:Yellow)
 
-### Joyce Ma // Digital Humanities 150 at UCLA, Winter 2020 // Dr. Sookie Cho // 03.03.2020_
-
-
-<p align="center">
-  <img width="430" height="330" src="pmlogo.png">
-</p>
+### Joyce Ma 
 
 ## Overview
 
