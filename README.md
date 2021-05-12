@@ -42,9 +42,13 @@ Link to Interactive Prototype: https://www.figma.com/proto/HQPCveykicatzy1HlmK6p
 
 For my app, I wanted to make it simple and accessible for seniors to use. After conducting some research on appropriate color schemes, I found that seniors have difficulty differentiating between blues and greens and respond better to warm colors, such as orange and red. As a result, I decided to choose a warm color scheme with mainly orange tones to make it easier for seniors to view the app. I also wanted to keep the interface minimal and not cluttered so users would not be distracted or confused trying to find the next step. Many of the input boxes are familiar and do not require a lot of technological knowledge to figure out, so the pages should be intuitive for users to use. The rectangular boxes have slightly rounded corners to give off a more modern and soft look rather than harsh, sharp corners. I also incorporated recognizable icons on some screens when appropriate as another method tolet users know they are on the right page, and I chose a clean font to avoid readability and legibility issues.
 
-## Impression Test
+## Impression Test and Cognitive Walkthrough
 
+Link to Impression Test:
 
+Overall, the impression test went smoothly and the participant was able to navigate through the pages without much trouble. Because not all of the buttons and options on the screen could be interacted with, I had to direct the participant on what his available options were to keep the flow going. Because of the back buttons, the user was able to go between the pages without getting stuck. I noticed the scroll button, which I made a triangle, caused some confusion because it was not as recognizable was the back button icon. The participant also expressed that the font for the bios was too small, which I will keep in mind for future revisions. Other than that, the participant thought the prototype was streamlined, smooth, and simple. 
+
+By having my participant talk out loud during the impression test, we performed a cognitive walkthrough as well. The two prototypes represented two potential tasks that the target user would complete while using the app. As my participant went through the prototypes, he was able to point out what worked well and what did not so I could see the prototype from the user's perspective. As mentioned before, he liked the overall aesthetic of the app and the simplicity of the buttons but raised concerns about the scroll down button and font size. With this information, I can narrow the scope of what I need to work on and focus on specific fixes to create a better user experience.
 
 
 ## Accessibility Check
@@ -67,3 +71,4 @@ cream (FFEBDB) as the background color because it is the lightest and provides a
 **Layout Grid:** All icons, buttons, and boxes are centerd along the center of the screen. Text is usually aligned to the left, but it is centered on buttons. The text and buttons are equally spaced from each other, but the exact measurements vary across different screens because each screen is adapted to allow everything on it to fit nicely. 
 
 ## Reflection
+
