@@ -4,9 +4,11 @@
 
 ## Overview
 
-**Purpose:** The purpose of creating this high-fidelity prototype is to visualize the functional and UX/UI-related improvements I would like to make to the ParkMobile application in a format that users can easily test.
+**Description of Project:** My project centers around providing seniors an accessible app to use when looking for senior care. Because many eldery people find it difficult to navigate technology, my goal is to design an app with an appropriate color scheme, font, and flow to increase usability and allow elderly people to find what they are looking for with ease. 
 
-**Process:** This high-fidelity, interactive prototype was created based on several steps throughout the design process. First, the interactions included in this prototype were chosen based on observations made during usability testing and contextual analysis. Next, I created 3 user personas and assigned each one to 1 of 3 interactions, based on how much benefit it could bring to them related to their personal characteristics. Then, I hand-drew wireframes and wireflows as part of a low-fidelity prototype, which I tested with two users. Feedback from both users informed changes I made to my original plans for certain interactions, especially the second one about receiving recommendations on places to visit. I incorporated these changes into my high-fidelity, interactive prototype that I made using Figma, with a mix of new interface designs and screenshots from the ParkMobile and Google Maps applications. 
+**Purpose of Prototyping:** The purpose of this high fidelity prototype is to map out a detailed version of the app design to test any flaws in usability. The prototype will allow us to see if certain tasks are easily completable and what needs to be changed to allow for a better user experience.
+
+**Process of Prototyping:** This high-fidelity, interactive prototype was created based on several steps throughout the design process. First, the interactions included in this prototype were chosen based on observations made during usability testing and contextual analysis. Next, I created 3 user personas and assigned each one to 1 of 3 interactions, based on how much benefit it could bring to them related to their personal characteristics. Then, I hand-drew wireframes and wireflows as part of a low-fidelity prototype, which I tested with two users. Feedback from both users informed changes I made to my original plans for certain interactions, especially the second one about receiving recommendations on places to visit. I incorporated these changes into my high-fidelity, interactive prototype that I made using Figma, with a mix of new interface designs and screenshots from the ParkMobile and Google Maps applications. 
 
 ## Tasks
 
