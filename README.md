@@ -40,7 +40,7 @@ Link to Interactive Prototype
 
 ### Graphical Interface Design Explanation
 
-For my app, I wanted to make it simple and accessible for seniors to use. After conducting some research on appropriate color schemes, I found that seniors have difficulty differentiating between blues and greens and respond better to warm colors, such as orange and red. As a result, I decided to choose a warm color scheme with mainly orange tones to make it easier for seniors to view the app. I also wanted to keep the interface minimal and not cluttered so users would not be distracted or confused trying to find the next step. Many of the input boxes are familiar and do not require a lot of technological knowledge to figure out, so the pages should be intuitive for users to use. I also incorporated recognizable icons on some screens when appropriate as another method tolet users know they are on the right page, and I chose a clean font to avoid readability and legibility issues.
+For my app, I wanted to make it simple and accessible for seniors to use. After conducting some research on appropriate color schemes, I found that seniors have difficulty differentiating between blues and greens and respond better to warm colors, such as orange and red. As a result, I decided to choose a warm color scheme with mainly orange tones to make it easier for seniors to view the app. I also wanted to keep the interface minimal and not cluttered so users would not be distracted or confused trying to find the next step. Many of the input boxes are familiar and do not require a lot of technological knowledge to figure out, so the pages should be intuitive for users to use. The rectangular boxes have slightly rounded corners to give off a more modern and soft look rather than harsh, sharp corners. I also incorporated recognizable icons on some screens when appropriate as another method tolet users know they are on the right page, and I chose a clean font to avoid readability and legibility issues.
 
 ## Impression Test
 
@@ -63,6 +63,6 @@ The colors in my design are dark blue/green (25424C) which is mainly used for te
 **Color Scheme:** I used 4 colors in my color scheme, including dark blue/green (25424C), cream (FFEBDB), light orange (FFA45B), and dark orange (FB770D). I chose 
 cream (FFEBDB) as the background color because it is the lightest and provides a clean background for the other colors to sit on top of. I chose dark blue/green (25424C) as the primary text color because it is the darkest and contrast the most with all of the other colors. I used light orange (FFA45B) and dark orange (FB770D) as accent colors for buttons, input boxes, and dropdown menus because they contrasted well enough with the background and primary text to create distinctions, even if they did not work as well as font colors. 
 
-**Layout Grid** 
+**Layout Grid:** All icons, buttons, and boxes are centerd along the center of the screen. Text is usually aligned to the left, but it is centered on buttons. The text and buttons are equally spaced from each other, but the exact measurements vary across different screens because each screen is adapted to allow everything on it to fit nicely. 
 
 ## Reflection
