@@ -1,6 +1,6 @@
 # DH110 Assignment 6: High-Fidelity Prototype (Part One:Yellow)
 
-### Joyce Ma 
+## Joyce Ma 
 
 ## Overview
 
