@@ -18,7 +18,7 @@
 **Task 2: Organizing caregiver profiles to make background information more accessible**
 >In this task, Elijah (the associated user persona) opens the senior care app and logs in. He has already inputted his desired filters so he is automatically redirected to the available caregivers page, where he was last. He finds a caregiver he likes and clicks View Profile and is redirected to the caregivers profile. Elijah then scrolls down to the Background Information section of the profile and has the options to click Background Check, References, or Qualifications. Each link takes Elijah to a different screen where he can see the respective information. 
 
-## Wireframes
+## Wireflows
 
 **Using a specialized filter to help narrow down caregiver options**
 
