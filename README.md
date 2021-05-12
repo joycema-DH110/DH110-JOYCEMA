@@ -24,6 +24,8 @@
 
 ![Task_1_Wireframe](Task1Wireframe.jpg)
 
+Link to Prototype: https://www.figma.com/proto/7pH1Hx47cAEklWXNQFv7lY/DH110-Wireframes?node-id=5%3A23&scaling=scale-down&page-id=0%3A1
+
 **Organizing caregiver profiles to make background information more accessible**
 
 [Task_2_Wireframe](Task2Wireframe.jpg)
