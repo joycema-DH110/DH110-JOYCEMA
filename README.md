@@ -18,22 +18,13 @@
 **Task 2: Organizing caregiver profiles to make background information more accessible**
 >In this task, Elijah (the associated user persona) opens the senior care app and logs in. He has already inputted his desired filters so he is automatically redirected to the available caregivers page, where he was last. He finds a caregiver he likes and clicks View Profile and is redirected to the caregivers profile. Elijah then scrolls down to the Background Information section of the profile and has the options to click Background Check, References, or Qualifications. Each link takes Elijah to a different screen where he can see the respective information. 
 
-## Wireframes - Screenshots of Frames from Each Task
+## Wireframes
 
-**Paying for Parking in 2 Zones**
-<p align="left">
-  <img width="330" height="500" src="Paying for Parking in 2 Zones.png">
-</p>
+**Using a specialized filter to help narrow down caregiver options**
+[Task 1 Prototype](https://www.figma.com/proto/cS0luA6QUbMQqn4F48rpfN/Interaction-1?node-id=1%3A26&scaling=scale-down)
 
-**Closing a Notification**
-<p align="left">
-  <img width="600" height="400" src="Closing a Notification.png">
-</p>
-
-**Getting Directions to LAX**
-<p align="left">
-  <img width="600" height="400" src="Getting Directions to LAX .png">
-</p>
+**Organizing caregiver profiles to make background information more accessible**
+[Task 2 Prototype](https://www.figma.com/proto/cS0luA6QUbMQqn4F48rpfN/Interaction-1?node-id=1%3A26&scaling=scale-down)
 
 ### Graphical Interface Design Explanation
 The base of the interface of this prototype comes directly from the existing application, ParkMobile. As a result, I primarily built on the app's existing color scheme to choose the colors for the additional elements I added into the design. In the first two interactions, the colors I utilized were primarily green, white, and black. Because I also used screenshots of the Google Maps interface in the third interaction, another color I added was the blue color native to Google Maps. The elements I added into the existing interface in order to create this prototype include buttons, notifications, bubbles with the dollar amount for parking, and the ParkMobile logo. All of these added elements are mostly rounded in shape in order to best align with the existing elements in the ParkMobile and Google Maps interfaces.
