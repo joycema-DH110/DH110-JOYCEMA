@@ -1,6 +1,6 @@
 # DH110 Assignment 6: High-Fidelity Prototype (Part One:Yellow)
 
-### _by Tasia Mochernak // Digital Humanities 150 at UCLA, Winter 2020 // Dr. Sookie Cho // 03.03.2020_
+### Joyce Ma // Digital Humanities 150 at UCLA, Winter 2020 // Dr. Sookie Cho // 03.03.2020_
 
 
 <p align="center">
