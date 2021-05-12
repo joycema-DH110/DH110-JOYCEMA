@@ -22,7 +22,7 @@
 
 **Using a specialized filter to help narrow down caregiver options**
 
-![Task_1_Wireframe](Task1Wireframe.jpg)
+![Task_1_Wireflow](Task1Wireflow.jpg)
 
 Link to Prototype: https://www.figma.com/proto/7pH1Hx47cAEklWXNQFv7lY/DH110-Wireframes?node-id=5%3A23&scaling=scale-down&page-id=0%3A1
 
