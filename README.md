@@ -21,12 +21,12 @@
 ## Wireframes
 
 **Using a specialized filter to help narrow down caregiver options**
+
 ![Task_1_Wireframe](Task1Wireframe.jpg)
 
-[Task_1_Wireframe](Task1Wireframe.png)
-
 **Organizing caregiver profiles to make background information more accessible**
-[Task 2 Prototype](https://www.figma.com/proto/cS0luA6QUbMQqn4F48rpfN/Interaction-1?node-id=1%3A26&scaling=scale-down)
+
+[Task_2_Wireframe](Task2Wireframe.jpg)
 
 ### Graphical Interface Design Explanation
 The base of the interface of this prototype comes directly from the existing application, ParkMobile. As a result, I primarily built on the app's existing color scheme to choose the colors for the additional elements I added into the design. In the first two interactions, the colors I utilized were primarily green, white, and black. Because I also used screenshots of the Google Maps interface in the third interaction, another color I added was the blue color native to Google Maps. The elements I added into the existing interface in order to create this prototype include buttons, notifications, bubbles with the dollar amount for parking, and the ParkMobile logo. All of these added elements are mostly rounded in shape in order to best align with the existing elements in the ParkMobile and Google Maps interfaces.
