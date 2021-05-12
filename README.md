@@ -44,17 +44,17 @@ For my app, I wanted to make it simple and accessible for seniors to use. After 
 
 ## Impression Test
 
+
+
+## Accessibility Check
+
 ![Color_Contrast_1](ColorContrast1.png)
 
 ![Color_Contrast_2](ColorContrast2.png)
 
-## Accessibility Check
+![Color_Contrast_3](ColorContrast3.png)
 
-* [Task 1 Prototype](Task1Wireframe.png)
-
-* [Task 2 Prototype](https://www.figma.com/proto/Fg2RfJ8fe7vmDP34aUQK0Z/Interaction-2?node-id=1%3A2&scaling=scale-down)
-
-* [Task 3 Prototype](https://www.figma.com/proto/s64UzL7U2dSK0CuWdyOrxw/Interaction-3?node-id=1%3A2&scaling=scale-down)
+The colors in my design are dark blue/green (25424C) which is mainly used for text, cream (FFEBDB) which is used for background, and light orange (FFA45B) and dark orange (FB770D) which are used as accent colors. The majority of the text on the app is dark blue/green (25424C) on either light orange (FFA45B) or dark orange (FB770D), which both passed the Stark plugin color contraster check on the WCAG 2.0 AA level. Light orange (FFA45B) on dark orange (FB770D), or vice versa, did not pass the color contrast test. For future revisions, I will keep all my text the dark blue/green (25424C) color to make sure it can be read easily, especially for senior citizens.
 
 ## Design System
 
