@@ -8,7 +8,7 @@
 
 **Purpose of Prototyping:** The purpose of this high fidelity prototype is to map out a detailed version of the app design to test any flaws in usability. The prototype will allow us to see if certain tasks are easily completable and what needs to be changed to allow for a better user experience.
 
-**Process of Prototyping:** This high-fidelity, interactive prototype was created based on several steps throughout the design process. First, the interactions included in this prototype were chosen based on observations made during usability testing and contextual analysis. Next, I created 3 user personas and assigned each one to 1 of 3 interactions, based on how much benefit it could bring to them related to their personal characteristics. Then, I hand-drew wireframes and wireflows as part of a low-fidelity prototype, which I tested with two users. Feedback from both users informed changes I made to my original plans for certain interactions, especially the second one about receiving recommendations on places to visit. I incorporated these changes into my high-fidelity, interactive prototype that I made using Figma, with a mix of new interface designs and screenshots from the ParkMobile and Google Maps applications. 
+**Process of Prototyping:** The high fidelity prototype was created on Figma, a web-based prototyping tool. On Figma, I turned the low fidelity prototypes into high fidelity prototypes by implementing actual usable features and creating a consistent design theme throughout the wireframes. The general aesthetic was designed with seniors in mind and the tasks chosen were tasks that will be commonly completed within the app when it is ready to use.
 
 ## Tasks
 
