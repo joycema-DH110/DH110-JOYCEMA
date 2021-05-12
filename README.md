@@ -36,7 +36,7 @@ Link to Interactive Prototype: https://www.figma.com/proto/7pH1Hx47cAEklWXNQFv7l
 
 ![Task_2_Wireflow](Task2Wireflow.jpg)
 
-Link to Interactive Prototype
+Link to Interactive Prototype: https://www.figma.com/proto/HQPCveykicatzy1HlmK6po/Untitled?node-id=1%3A6&scaling=scale-down&page-id=0%3A1
 
 ### Graphical Interface Design Explanation
 
