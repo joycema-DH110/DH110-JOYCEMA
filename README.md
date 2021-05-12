@@ -44,7 +44,7 @@ For my app, I wanted to make it simple and accessible for seniors to use. After 
 
 ## Impression Test and Cognitive Walkthrough
 
-Link to Impression Test:
+Link to Impression Test: https://drive.google.com/file/d/1L0GlwHzifAf2N-wfZZJ-5cgb0K5cb3WQ/view?usp=sharing
 
 Overall, the impression test went smoothly and the participant was able to navigate through the pages without much trouble. Because not all of the buttons and options on the screen could be interacted with, I had to direct the participant on what his available options were to keep the flow going. Because of the back buttons, the user was able to go between the pages without getting stuck. I noticed the scroll button, which I made a triangle, caused some confusion because it was not as recognizable was the back button icon. The participant also expressed that the font for the bios was too small, which I will keep in mind for future revisions. Other than that, the participant thought the prototype was streamlined, smooth, and simple. 
 
