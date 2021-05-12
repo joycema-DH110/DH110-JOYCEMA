@@ -12,14 +12,12 @@
 
 ## Tasks
 
-**Task 1: Seeing the price/hour of parking prior to clicking into parking “zone”**
->In this task, Katie (the associated user persona) opens ParkMobile and sees several nearest “zone” numbers appear. If each zone number is pressed, a bubble with $3, $4, or $6, which represents price/hour, will appear about each zone number. Katie can compare various bubbles in the same vicinity based on the $ amounts and choose which one fits her needs best. After clicking on her chosen zone, Katie proceeds through the ParkMobile time selection and payment screens as usual.
+**Task 1: Using a specialized filter to help narrow down caregiver options**
+>In this task, Betty (the associated user persona) opens the senior care app and logs in. She is then directed to the Find a Senior Caregiver page, where she is prompted to input her state and zip code. After, she can choose her desired filters such as distance, age range, living arrangement, availability, etc. to find her perfect care giver. She then presses Next and is routed to the page of available caregivers, which she can scroll through to find someone she likes. She presses View Profile on a caregiver to see her profile and presses Contact. Betty writes a message and presses Submit. 
 
-**Task 2: Receiving recommendations on places to visit**
+**Task 2: Organizing caregiver profiles to make background information more accessible**
 >In this task, Taryn (the associated user persona) opens ParkMobile to the “Park” screen and receives a pop-up box in the top middle of the screen saying “Welcome back, Taryn! Have you  considered checking out a show at the Hollywood Pantages Theatre? Based on your parking history, we think this is a place you’ll enjoy!?” Hollywood Pantages is a location in LA with ParkMobile parking available that Taryn has not yet visited (paid for parking or indicated in survey that she's visited), but the notifications can include different locations for different users based on their personal user history. Taryn clicks on the notification and is taken to a screen with a list of shows currently showing at that location, where she can see if she is interested in attending any of them and proceed through the process of choosing parking to reserve ahead of time. She can exit this "guided" exploration at any time.
 
-**Task 3: Integrating with Google Maps**
->This task spans 2 applications. Jake (the associated user persona) opens Google Maps on mobile and receives a reminder about his flight at LAX at 5 pm today. He either clicks the notification or the "Search" bar to put in his destination (LAX) in order to receive directions. Google Maps shows LAX and due to ParkMobile integration, also shows green ParkMobile logo on the screen indicating nearby PM locations. Jake selects a ParkMobile location as his destination instead and navigates to it. Once arrived, he receives a notification to “Pay in ParkMobile,” which takes him to the ParkMobile app and allows him to pay for parking. 
 
 ## Wireframes - Screenshots of Frames from Each Task
 
