@@ -46,6 +46,7 @@ For my app, I wanted to make it simple and accessible for seniors to use. After 
 
 
 
+
 ## Accessibility Check
 
 ![Color_Contrast_1](ColorContrast1.png)
