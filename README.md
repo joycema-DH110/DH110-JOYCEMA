@@ -21,7 +21,8 @@
 ## Wireframes
 
 **Using a specialized filter to help narrow down caregiver options**
-[Task1Wireframe](Task1Wireframe.jpg)
+![Task_1_Wireframe](Task1Wireframe.jpg)
+
 [Task_1_Wireframe](Task1Wireframe.png)
 
 **Organizing caregiver profiles to make background information more accessible**
