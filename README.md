@@ -58,6 +58,11 @@ The colors in my design are dark blue/green (25424C) which is mainly used for te
 
 ## Design System
 
-**Font**
+**Typeface:** The font I chose was Open Sans because of its legibility and clean look. I wanted a font that was easy to read and aesthetically pleasing, and I believe Open Sans works very well. Open Sans is a humanist sans serif typeface and is popular in flat design-style web design, offering a pleasant reading experience for app users. For font size I chose 30 for page headers, 20 for subheaders, and 15 for buttons and all other labels. 
+
+**Color Scheme:** I used 4 colors in my color scheme, including dark blue/green (25424C), cream (FFEBDB), light orange (FFA45B), and dark orange (FB770D). I chose 
+cream (FFEBDB) as the background color because it is the lightest and provides a clean background for the other colors to sit on top of. I chose dark blue/green (25424C) as the primary text color because it is the darkest and contrast the most with all of the other colors. I used light orange (FFA45B) and dark orange (FB770D) as accent colors for buttons, input boxes, and dropdown menus because they contrasted well enough with the background and primary text to create distinctions, even if they did not work as well as font colors. 
+
+**Layout Grid** 
 
 ## Reflection
