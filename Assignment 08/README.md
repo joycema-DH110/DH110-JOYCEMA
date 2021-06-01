@@ -1,4 +1,4 @@
-# Caregiver App
+# Caregiver App for Senior Citizens
 ## Joyce Ma
 
 ### Introduction
