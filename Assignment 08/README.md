@@ -23,8 +23,10 @@ Usability Testing video [here.](https://drive.google.com/file/d/12gYJr7UeLXbd43d
 
 My project is meant to support users by allowing them to browse senior care websites with more ease and confidence. Because technology is oftentimes a challenge for the elderly, I hope my project will serve to improve the accessibility of senior care and help the eldery find what they are looking for efficiently. The current limitations to finding senior care is not having a comprehensive databse of available caregivers in your area to look through. Because caregivers and seniors sign up to different websites and apps, there is a big possibility users are unable to complete list of caregivers they can hire, which can lead to potentially missing out on someone who is perfect for your needs.
 
-**Demographic:** elderly people looking for senior care, friends and family of seniors who want to find their loved ones proper care 
+**Demographic:** elderly people looking for senior care, friends and family of seniors who want to find their loved ones proper care
+
 **Preference:** users who are genuinely interested in finding senior care and are ready to hire a caregiver
+
 **Expertise:** users do not have to have previous experience or expertise to use this application
 
 
