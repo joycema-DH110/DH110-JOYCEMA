@@ -49,10 +49,16 @@ UX storytelling is important because it helps us visualize and understand our ta
 
 ### Low Fidelity Prototype
 
+
+
 ### High Fidelity Prototype
 
-### Optional Evaluation and Revision History
+
 
 ### Pitch Video
 
+
+
 ### Conclusion
+
+
