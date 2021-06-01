@@ -17,7 +17,11 @@ The two websites I chose to analyze were displayed on the first page of Google s
 
 ![Easy Tech Seniors Screenshot](Easy-Tech-Seniors-Screenshot.png)
 
+Usability Testing video [here.](https://drive.google.com/file/d/12gYJr7UeLXbd43dcpjhcdbJGak-mKOK6/view?usp=sharing)
+
 ### User Research
+
+
 
 ### UX Storytelling
 
