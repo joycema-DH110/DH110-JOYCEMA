@@ -29,6 +29,9 @@ My project is meant to support users by allowing them to browse senior care webs
 
 **Expertise:** users do not have to have previous experience or expertise to use this application
 
+The observation method I chose was participatory observation. I had my participant engage in a few activites to see his reaction and his experience with senior care websites. Ideally, my participant would have been an elderly person. Unfortunately, my elderly family members do not speak English and due to the pandemic, I thought it would be best to not reach out to random participants on the street. I thought it was very interesting and helpful to interview someone and guage how they would approach looking for a senior caregiver through observation and asking them questions about their thoughts and opinions. Overall, this experience helped me overcome some personal biases I had regarding senior care websites and I look forward to using the information I gathered to improve my own project. [read more...](https://github.com/joycema-DH110/DH110-JOYCEMA/blob/main/Assignment%2003)
+
+
 
 ### UX Storytelling
 
