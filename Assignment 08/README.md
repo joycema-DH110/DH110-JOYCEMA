@@ -37,7 +37,7 @@ UX storytelling is important because it helps us visualize and understand our ta
 
 **1. Betty Jackson**
 ![Betty_Jackson_Persona](BettyJacksonPersona1.jpg)
-![Betty_Jackson_Empathy_Map](BettyJacksonEmpathyMap.jpg)
+![Betty_Jackson_Empathy_Map](https://github.com/joycema-DH110/DH110-JOYCEMA/blob/main/BettyJacksonEmpathyMap.jpg)
 
 **2. Elijah Prince**
 ![Elijah_Prince_Persona](ElijahPrincePersona.jpg)
