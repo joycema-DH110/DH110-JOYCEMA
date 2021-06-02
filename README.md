@@ -45,7 +45,7 @@ UX storytelling is important because it helps us visualize and understand our ta
 
 ### Wireframe and Graphic Design Element Variation
 
-![Variations](https://github.com/joycema-DH110/DH110-JOYCEMA/blob/main/Variations.jpg)
+![Variations](https://github.com/joycema-DH110/DH110-JOYCEMA/raw/main/Variations.jpg)
 
 The three distinct templates I created for the screen design were the Log In page, the Create an Account page, and the Find a Senior Caregiver page. These screens have graphic design components such as a consistent color scheme, recognizable icons, input boxes, buttons, and drop down menus. I created 3 different variations of the Create an Account screen, including a light mode, dark mode, and in between mode.
 
