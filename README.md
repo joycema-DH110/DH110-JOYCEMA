@@ -1,75 +1,90 @@
-# DH110 Assignment 6: High-Fidelity Prototype (Part One:Yellow)
+# Caregiver App for Senior Citizens
+## Joyce Ma
 
-## Joyce Ma 
+### Introduction
 
-## Overview
+This quarter, I centered my project around designing a senior caregiver app for senior citizens. In a world where technology is constantly advancing, it is important to provide senior citizens with platforms that are simple to use, yet up to date with current technology to help them complete necessary tasks. For my project, I created a new app for the elderly to find suitable caregivers near them that is clean, welcoming, and efficient. The app allows users to complete tasks such as filter caregivers based on requirements, run background checks, and contact potential caregivers. A common flaw the current popular senior caregiver websites and apps share is a cluttered interface that is difficult and confusing to use, so my app aims to simplify and streamline the process of finding a good caregiver for senior citizens.
 
-**Description of Project:** My project centers around providing seniors an accessible app to use when looking for senior care. Because many eldery people find it difficult to navigate technology, my goal is to design an app with an appropriate color scheme, font, and flow to increase usability and allow elderly people to find what they are looking for with ease. 
+### Design Statement
 
-**Purpose of Prototyping:** The purpose of this high fidelity prototype is to map out a detailed version of the app design to test any flaws in usability. The prototype will allow us to see if certain tasks are easily completable and what needs to be changed to allow for a better user experience.
+For the design of my project, I wanted to focus on creating an interface that is easy for seniors to navigate. The overall design of the app is straightforward and uncluttered, so seniors do not feel overwhelmed when browsing. The two main tasks I wanted to target with my design were creating a specialized filter to help narrow down caregiver options and organizing caregiver profiles to make background information more accessible. 
 
-**Process of Prototyping:** The high fidelity prototype was created on Figma, a web-based prototyping tool. On Figma, I turned the low fidelity prototypes into high fidelity prototypes by implementing actual usable features and creating a consistent design theme throughout the wireframes. The general aesthetic was designed with seniors in mind and the tasks chosen were tasks that will be commonly completed within the app when it is ready to use.
+### Competitor Analysis
 
-## Tasks
+The two websites I chose to analyze were displayed on the first page of Google search results, because seniors searching up how to use technology are most likely to click on the first few links they see. As a result, I view these sites as my greatest competitors. The Join Papa site, though it is the first option to click, needs major improvements to successfully teach seniors how to use technology because it lacks important information. The Easy Tech Seniors site, though better than the Join Papa site, could also benefit from formatting changes. Because the Join Papa website addresses so many issues at once, their pages do not talk about the topics comprehensively. On the How to Teach Technoogy to Seniors page, the main issues is the lack of useful information. The information provided is extremely basic and vague, and would not be a good source to turn to for seniors inexperienced with technology. [read more...](https://github.com/joycema-DH110/DH110-JOYCEMA/edit/main/Assignment%2001)
 
-**Task 1: Using a specialized filter to help narrow down caregiver options**
->In this task, Betty (the associated user persona) opens the senior care app and logs in. She is then directed to the Find a Senior Caregiver page, where she is prompted to input her state and zip code. After, she can choose her desired filters such as distance, age range, living arrangement, availability, etc. to find her perfect care giver. She then presses Next and is routed to the page of available caregivers, which she can scroll through to find someone she likes. She presses View Profile on a caregiver to see her profile and presses Contact. Betty writes a message and presses Submit. 
+![Join Papa Screenshot](https://github.com/joycema-DH110/DH110-JOYCEMA/blob/main/Join%20Papa%20Screenshot.png)
 
-**Task 2: Organizing caregiver profiles to make background information more accessible**
->In this task, Elijah (the associated user persona) opens the senior care app and logs in. He has already inputted his desired filters so he is automatically redirected to the available caregivers page, where he was last. He finds a caregiver he likes and clicks View Profile and is redirected to the caregivers profile. Elijah then scrolls down to the Background Information section of the profile and has the options to click Background Check, References, or Qualifications. Each link takes Elijah to a different screen where he can see the respective information. 
+![Easy Tech Seniors Screenshot](https://github.com/joycema-DH110/DH110-JOYCEMA/blob/main/Easy%20Tech%20Seniors%20Screenshot.png)
 
-## Screen Design
+Usability Testing video [here.](https://drive.google.com/file/d/12gYJr7UeLXbd43dcpjhcdbJGak-mKOK6/view?usp=sharing)
 
-![Variations](Variations.jpg)
+### User Research
 
-The three distinct templates I created for the screen design were the Log In page, the Create an Account page, and the Find a Senior Caregiver page. These screens have graphic design components such as a consistent color scheme, recognizable icons, input boxes, buttons, and drop down menus. I created 3 different variations of the Create an Account screen, including a light mode, dark mode, and in between mode. 
+My project is meant to support users by allowing them to browse senior care websites with more ease and confidence. Because technology is oftentimes a challenge for the elderly, I hope my project will serve to improve the accessibility of senior care and help the eldery find what they are looking for efficiently. The current limitations to finding senior care is not having a comprehensive databse of available caregivers in your area to look through. Because caregivers and seniors sign up to different websites and apps, there is a big possibility users are unable to complete list of caregivers they can hire, which can lead to potentially missing out on someone who is perfect for your needs.
 
-## Wireflows
+**Demographic:** elderly people looking for senior care, friends and family of seniors who want to find their loved ones proper care
+
+**Preference:** users who are genuinely interested in finding senior care and are ready to hire a caregiver
+
+**Expertise:** users do not have to have previous experience or expertise to use this application
+
+The observation method I chose was participatory observation. I had my participant engage in a few activites to see his reaction and his experience with senior care websites. Ideally, my participant would have been an elderly person. Unfortunately, my elderly family members do not speak English and due to the pandemic, I thought it would be best to not reach out to random participants on the street. I thought it was very interesting and helpful to interview someone and guage how they would approach looking for a senior caregiver through observation and asking them questions about their thoughts and opinions. Overall, this experience helped me overcome some personal biases I had regarding senior care websites and I look forward to using the information I gathered to improve my own project. [read more...](https://github.com/joycema-DH110/DH110-JOYCEMA/blob/main/Assignment%2003)
+
+### UX Storytelling
+
+UX storytelling is important because it helps us visualize and understand our target audience better through the creation of personas and situations. By analyzing the things members of our target audience say, think, do, and feel, we can view our product from the eyes of a user to tailor the product to improve overall user experience. UX storytelling offers a much more comprehensive outlook on the users themselves and help us shed our biases, which allows us to create the best product we can. [read more...](https://github.com/joycema-DH110/DH110-JOYCEMA/blob/main/Assignment%2004)
+
+**1. Betty Jackson**
+![Betty_Jackson_Persona](https://github.com/joycema-DH110/DH110-JOYCEMA/blob/main/BettyJacksonPersona.jpg)
+![Betty_Jackson_Empathy_Map](https://github.com/joycema-DH110/DH110-JOYCEMA/blob/main/BettyJacksonEmpathyMap.jpg)
+
+**2. Elijah Prince**
+![Elijah_Prince_Persona](https://github.com/joycema-DH110/DH110-JOYCEMA/blob/main/ElijahPrincePersona.jpg)
+![Elijah_Prince_Empathy_Map](https://github.com/joycema-DH110/DH110-JOYCEMA/blob/main/ElijahPrinceEmpathyMap.jpg)
+
+### Wireframe and Graphic Design Element Variation
+
+![Variations](https://github.com/joycema-DH110/DH110-JOYCEMA/blob/main/Variations.jpg)
+
+The three distinct templates I created for the screen design were the Log In page, the Create an Account page, and the Find a Senior Caregiver page. These screens have graphic design components such as a consistent color scheme, recognizable icons, input boxes, buttons, and drop down menus. I created 3 different variations of the Create an Account screen, including a light mode, dark mode, and in between mode.
+
+For my app, I wanted to make it simple and accessible for seniors to use. After conducting some research on appropriate color schemes, I found that seniors have difficulty differentiating between blues and greens and respond better to warm colors, such as orange and red. As a result, I decided to choose a warm color scheme with mainly orange tones to make it easier for seniors to view the app. I also wanted to keep the interface minimal and not cluttered so users would not be distracted or confused trying to find the next step. [read more...](https://github.com/joycema-DH110/DH110-JOYCEMA/blob/main/Assignment%206%20%26%207)
+
+### Low Fidelity Prototype
+
+The purpose of the low fidelity prototype is to create a general layout of how my platform will look and function. By mapping out the general flow of the screens, I will be able to gain a better understanding of how everything will look in the end and where the problem areas are. By testing the low fidelity prototype, I can see which features are actually functionable and useful and which are confusing and unnecessary. The test will allow me to see my product through the eyes of the user to gain important insight which can be applied to improve user experience. My prototype will go through two tasks that target two problems I noticed in the design of other senior care sites.
+
+![wireframe1](https://github.com/joycema-DH110/DH110-JOYCEMA/blob/main/wireframe1.jpg)
+
+![wireframe2](https://github.com/joycema-DH110/DH110-JOYCEMA/blob/main/wireframe2.jpg)
+
+The user did not exhibit confusion while going through the wireframes and was able to follow along with the wireflows and different screens. The reason I kept my flow simple was because my platform is tailored towards senior citizens, many of whom are unfamiliar with technology and would do better with simple processes. I believe by getting rid of excess options and having the user go through the necessary steps in an orderly and simple manner, possible confusion and frustration can be reduced ahead of time. [read more...](https://github.com/joycema-DH110/DH110-JOYCEMA/blob/main/Assignment%2005)
+
+### High Fidelity Prototype
 
 **Using a specialized filter to help narrow down caregiver options**
 
-![Task_1_Wireflow](Task1Wireflow.jpg)
+![Task_1_Wireflow](https://github.com/joycema-DH110/DH110-JOYCEMA/blob/main/Task1Wireflow.jpg)
 
 Link to Interactive Prototype: https://www.figma.com/proto/7pH1Hx47cAEklWXNQFv7lY/DH110-Wireframes?node-id=5%3A23&scaling=scale-down&page-id=0%3A1
 
 **Organizing caregiver profiles to make background information more accessible**
 
-![Task_2_Wireflow](Task2Wireflows.jpg)
+![Task_2_Wireflow](https://github.com/joycema-DH110/DH110-JOYCEMA/blob/main/Task2Wireflow.jpg)
 
 Link to Interactive Prototype: https://www.figma.com/proto/HQPCveykicatzy1HlmK6po/Untitled?node-id=1%3A6&scaling=scale-down&page-id=0%3A1
 
-### Graphical Interface Design Explanation
+[read more...](https://github.com/joycema-DH110/DH110-JOYCEMA/blob/main/Assignment%206%20%26%207)
 
-For my app, I wanted to make it simple and accessible for seniors to use. After conducting some research on appropriate color schemes, I found that seniors have difficulty differentiating between blues and greens and respond better to warm colors, such as orange and red. As a result, I decided to choose a warm color scheme with mainly orange tones to make it easier for seniors to view the app. I also wanted to keep the interface minimal and not cluttered so users would not be distracted or confused trying to find the next step. Many of the input boxes are familiar and do not require a lot of technological knowledge to figure out, so the pages should be intuitive for users to use. The rectangular boxes have slightly rounded corners to give off a more modern and soft look rather than harsh, sharp corners. I also incorporated recognizable icons on some screens when appropriate as another method tolet users know they are on the right page, and I chose a clean font to avoid readability and legibility issues.
+### Pitch Video
 
-## Impression Test and Cognitive Walkthrough
+[Pitch Video]()
 
-Link to Impression Test: https://drive.google.com/file/d/1L0GlwHzifAf2N-wfZZJ-5cgb0K5cb3WQ/view?usp=sharing
+### Conclusion
 
-Overall, the impression test went smoothly and the participant was able to navigate through the pages without much trouble. Because not all of the buttons and options on the screen could be interacted with, I had to direct the participant on what his available options were to keep the flow going. Because of the back buttons, the user was able to go between the pages without getting stuck. I noticed the scroll button, which I made a triangle, caused some confusion because it was not as recognizable was the back button icon. The participant also expressed that the font for the bios was too small, which I will keep in mind for future revisions. Other than that, the participant thought the prototype was streamlined, smooth, and simple. 
+Throughout this whole process, I gained valuable experience with UX/UI design that I did not have previously. I learned how to do the demographic research behind creating a website or app, run tests with participants, draw up wireframes and wireflows, and eventually create a high fidelity prototype of my app. I learned how our internal biases can affect the way we view and use our own apps and websites and how important it is to incorporate the suggestions of participants to improve the user experience. I also learned how intentional design should be and things such as font contrast and size need to be tested in order to make sure the platform is accessible to everyone. 
 
-By having my participant talk out loud during the impression test, we performed a cognitive walkthrough as well. The two prototypes represented two potential tasks that the target user would complete while using the app. As my participant went through the prototypes, he was able to point out what worked well and what did not so I could see the prototype from the user's perspective. As mentioned before, he liked the overall aesthetic of the app and the simplicity of the buttons but raised concerns about the scroll down button and font size. With this information, I can narrow the scope of what I need to work on and focus on specific fixes to create a better user experience.
+If I could redo aspects of this project, I would try to find participants in my actual target demographic, which is senior citizens, to run my participant tests. Because of the constraints I faced this quarter I was only able to find peers to evaluate my app, but I know the feedback would have been more relevant from someone who would actually be using the app. Regardless, my peers still offered helpful suggestions to help me improve my prototypes. 
 
-
-## Accessibility Check
-
-![Color_Contrast_1](ColorContrast1.png)
-
-![Color_Contrast_2](ColorContrast2.png)
-
-![Color_Contrast_3](ColorContrast3.png)
-
-The colors in my design are dark blue/green (25424C) which is mainly used for text, cream (FFEBDB) which is used for background, and light orange (FFA45B) and dark orange (FB770D) which are used as accent colors. The majority of the text on the app is dark blue/green (25424C) on either light orange (FFA45B) or dark orange (FB770D), which both passed the Stark plugin color contraster check on the WCAG 2.0 AA level. Light orange (FFA45B) on dark orange (FB770D), or vice versa, did not pass the color contrast test. For future revisions, I will keep all my text the dark blue/green (25424C) color to make sure it can be read easily, especially for senior citizens.
-
-## Design System
-
-**Typeface:** The font I chose was Open Sans because of its legibility and clean look. I wanted a font that was easy to read and aesthetically pleasing, and I believe Open Sans works very well. Open Sans is a humanist sans serif typeface and is popular in flat design-style web design, offering a pleasant reading experience for app users. For font size I chose 30 for page headers, 20 for subheaders, and 15 for buttons and all other labels. 
-
-**Color Scheme:** I used 4 colors in my color scheme, including dark blue/green (25424C), cream (FFEBDB), light orange (FFA45B), and dark orange (FB770D). I chose 
-cream (FFEBDB) as the background color because it is the lightest and provides a clean background for the other colors to sit on top of. I chose dark blue/green (25424C) as the primary text color because it is the darkest and contrast the most with all of the other colors. I used light orange (FFA45B) and dark orange (FB770D) as accent colors for buttons, input boxes, and dropdown menus because they contrasted well enough with the background and primary text to create distinctions, even if they did not work as well as font colors. 
-
-**Layout Grid:** All icons, buttons, and boxes are centerd along the center of the screen. Text is usually aligned to the left, but it is centered on buttons. The text and buttons are equally spaced from each other, but the exact measurements vary across different screens because each screen is adapted to allow everything on it to fit nicely. 
-
-## Reflection
-
-Overall, I believe the prototype testing went smoothly. I pulled up both prototypes, screenshared on Zoom, and then recorded the whole session with audio to capture my participant's actions and thoughts throughout the impression test and cognitive walkthrough. The participant was able to catch on to the functions of the button and app quickly, which I expected because the layout and buttons are quite familiar and do not require a lot of background knowledge to operate. What went differently than I expected was when my participant was confused on which buttons were interactive and which were not. Because I knew exactly what could be pressed, I assumed my participant would as well but that was my internal bias. I need to remember that the participant is seeing the app for the first time and will not react the same way to it as I do. Next time, I will change the font color and size as needed to increase color contrast and readability. I will also change the scroll button to something more obvious so users are not confused. Lastly, I want to design more frames for a more comprehensive view of the app to see how everything flows.
+Overall, I felt I learned a lot about UX/UI design this quarter and I feel much more comfortable using platforms such as Github and Figma to complete my work. I am happy I was able to create the prototype of an app that successfully completes the goal I set out to complete: helping senior citizens find a suitable caregiver. 
