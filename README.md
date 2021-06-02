@@ -15,7 +15,7 @@ The two websites I chose to analyze were displayed on the first page of Google s
 
 ![Join Papa Screenshot](https://github.com/joycema-DH110/DH110-JOYCEMA/raw/main/Join%20Papa%20Screenshot.png)
 
-![Easy Tech Seniors Screenshot](https://github.com/joycema-DH110/DH110-JOYCEMA/blob/main/Easy%20Tech%20Seniors%20Screenshot.png)
+![Easy Tech Seniors Screenshot](https://github.com/joycema-DH110/DH110-JOYCEMA/raw/main/Easy%20Tech%20Seniors%20Screenshot.png)
 
 Usability Testing video [here.](https://drive.google.com/file/d/12gYJr7UeLXbd43dcpjhcdbJGak-mKOK6/view?usp=sharing)
 
