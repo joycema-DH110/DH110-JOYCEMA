@@ -41,7 +41,7 @@ UX storytelling is important because it helps us visualize and understand our ta
 
 **2. Elijah Prince**
 ![Elijah_Prince_Persona](https://github.com/joycema-DH110/DH110-JOYCEMA/raw/main/ElijahPrincePersona.jpg)
-![Elijah_Prince_Empathy_Map](https://github.com/joycema-DH110/DH110-JOYCEMA/blob/main/ElijahPrinceEmpathyMap.jpg)
+![Elijah_Prince_Empathy_Map](https://github.com/joycema-DH110/DH110-JOYCEMA/raw/main/ElijahPrinceEmpathyMap.jpg)
 
 ### Wireframe and Graphic Design Element Variation
 
