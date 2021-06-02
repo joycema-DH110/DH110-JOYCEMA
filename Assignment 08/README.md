@@ -65,7 +65,7 @@ The user did not exhibit confusion while going through the wireframes and was ab
 
 **Using a specialized filter to help narrow down caregiver options**
 
-![Task_1_Wireflow](Task1Wireflow.jpg)
+![Task_1_Wireflow](https://github.com/joycema-DH110/DH110-JOYCEMA/blob/main/Task1Wireflow.jpg)
 
 Link to Interactive Prototype: https://www.figma.com/proto/7pH1Hx47cAEklWXNQFv7lY/DH110-Wireframes?node-id=5%3A23&scaling=scale-down&page-id=0%3A1
 
