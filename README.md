@@ -55,9 +55,9 @@ For my app, I wanted to make it simple and accessible for seniors to use. After 
 
 The purpose of the low fidelity prototype is to create a general layout of how my platform will look and function. By mapping out the general flow of the screens, I will be able to gain a better understanding of how everything will look in the end and where the problem areas are. By testing the low fidelity prototype, I can see which features are actually functionable and useful and which are confusing and unnecessary. The test will allow me to see my product through the eyes of the user to gain important insight which can be applied to improve user experience. My prototype will go through two tasks that target two problems I noticed in the design of other senior care sites.
 
-![wireframe1](https://github.com/joycema-DH110/DH110-JOYCEMA/blob/main/wireframe1.jpg)
+![wireframe1](https://github.com/joycema-DH110/DH110-JOYCEMA/raw/main/wireframe1.jpg)
 
-![wireframe2](https://github.com/joycema-DH110/DH110-JOYCEMA/blob/main/wireframe2.jpg)
+![wireframe2](https://github.com/joycema-DH110/DH110-JOYCEMA/raw/main/wireframe2.jpg)
 
 The user did not exhibit confusion while going through the wireframes and was able to follow along with the wireflows and different screens. The reason I kept my flow simple was because my platform is tailored towards senior citizens, many of whom are unfamiliar with technology and would do better with simple processes. I believe by getting rid of excess options and having the user go through the necessary steps in an orderly and simple manner, possible confusion and frustration can be reduced ahead of time. [read more...](https://github.com/joycema-DH110/DH110-JOYCEMA/blob/main/Assignment%2005)
 
