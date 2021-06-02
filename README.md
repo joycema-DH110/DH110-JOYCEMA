@@ -13,7 +13,7 @@ For the design of my project, I wanted to focus on creating an interface that is
 
 The two websites I chose to analyze were displayed on the first page of Google search results, because seniors searching up how to use technology are most likely to click on the first few links they see. As a result, I view these sites as my greatest competitors. The Join Papa site, though it is the first option to click, needs major improvements to successfully teach seniors how to use technology because it lacks important information. The Easy Tech Seniors site, though better than the Join Papa site, could also benefit from formatting changes. Because the Join Papa website addresses so many issues at once, their pages do not talk about the topics comprehensively. On the How to Teach Technoogy to Seniors page, the main issues is the lack of useful information. The information provided is extremely basic and vague, and would not be a good source to turn to for seniors inexperienced with technology. [read more...](https://github.com/joycema-DH110/DH110-JOYCEMA/edit/main/Assignment%2001)
 
-![Join Papa Screenshot](https://github.com/joycema-DH110/DH110-JOYCEMA/blob/main/Join%20Papa%20Screenshot.png)
+![Join Papa Screenshot](https://github.com/joycema-DH110/DH110-JOYCEMA/raw/main/Join%20Papa%20Screenshot.png)
 
 ![Easy Tech Seniors Screenshot](https://github.com/joycema-DH110/DH110-JOYCEMA/blob/main/Easy%20Tech%20Seniors%20Screenshot.png)
 
