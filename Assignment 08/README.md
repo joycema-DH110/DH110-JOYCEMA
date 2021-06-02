@@ -57,7 +57,7 @@ The purpose of the low fidelity prototype is to create a general layout of how m
 
 ![wireframe1](https://github.com/joycema-DH110/DH110-JOYCEMA/blob/main/wireframe1.jpg)
 
-![wireframe2](wireframe2.jpg)
+![wireframe2](https://github.com/joycema-DH110/DH110-JOYCEMA/blob/main/wireframe2.jpg)
 
 The user did not exhibit confusion while going through the wireframes and was able to follow along with the wireflows and different screens. The reason I kept my flow simple was because my platform is tailored towards senior citizens, many of whom are unfamiliar with technology and would do better with simple processes. I believe by getting rid of excess options and having the user go through the necessary steps in an orderly and simple manner, possible confusion and frustration can be reduced ahead of time. [read more...](https://github.com/joycema-DH110/DH110-JOYCEMA/blob/main/Assignment%2005)
 
