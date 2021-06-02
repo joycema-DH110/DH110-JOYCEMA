@@ -36,7 +36,7 @@ The observation method I chose was participatory observation. I had my participa
 UX storytelling is important because it helps us visualize and understand our target audience better through the creation of personas and situations. By analyzing the things members of our target audience say, think, do, and feel, we can view our product from the eyes of a user to tailor the product to improve overall user experience. UX storytelling offers a much more comprehensive outlook on the users themselves and help us shed our biases, which allows us to create the best product we can. [read more...](https://github.com/joycema-DH110/DH110-JOYCEMA/blob/main/Assignment%2004)
 
 **1. Betty Jackson**
-![Betty_Jackson_Persona](https://github.com/joycema-DH110/DH110-JOYCEMA/blob/main/BettyJacksonPersona.jpg)
+![Betty_Jackson_Persona](https://github.com/joycema-DH110/DH110-JOYCEMA/raw/main/BettyJacksonPersona.jpg)
 ![Betty_Jackson_Empathy_Map](https://github.com/joycema-DH110/DH110-JOYCEMA/blob/main/BettyJacksonEmpathyMap.jpg)
 
 **2. Elijah Prince**
