@@ -45,15 +45,37 @@ UX storytelling is important because it helps us visualize and understand our ta
 
 ### Wireframe and Graphic Design Element Variation
 
+![Variations](Variations.jpg)
 
+The three distinct templates I created for the screen design were the Log In page, the Create an Account page, and the Find a Senior Caregiver page. These screens have graphic design components such as a consistent color scheme, recognizable icons, input boxes, buttons, and drop down menus. I created 3 different variations of the Create an Account screen, including a light mode, dark mode, and in between mode.
+
+For my app, I wanted to make it simple and accessible for seniors to use. After conducting some research on appropriate color schemes, I found that seniors have difficulty differentiating between blues and greens and respond better to warm colors, such as orange and red. As a result, I decided to choose a warm color scheme with mainly orange tones to make it easier for seniors to view the app. I also wanted to keep the interface minimal and not cluttered so users would not be distracted or confused trying to find the next step. [read more...](https://github.com/joycema-DH110/DH110-JOYCEMA/blob/main/Assignment%206%20%26%207)
 
 ### Low Fidelity Prototype
 
+The purpose of the low fidelity prototype is to create a general layout of how my platform will look and function. By mapping out the general flow of the screens, I will be able to gain a better understanding of how everything will look in the end and where the problem areas are. By testing the low fidelity prototype, I can see which features are actually functionable and useful and which are confusing and unnecessary. The test will allow me to see my product through the eyes of the user to gain important insight which can be applied to improve user experience. My prototype will go through two tasks that target two problems I noticed in the design of other senior care sites.
 
+![wireframe1](wireframe1.jpg)
+
+![wireframe2](wireframe2.jpg)
+
+The user did not exhibit confusion while going through the wireframes and was able to follow along with the wireflows and different screens. The reason I kept my flow simple was because my platform is tailored towards senior citizens, many of whom are unfamiliar with technology and would do better with simple processes. I believe by getting rid of excess options and having the user go through the necessary steps in an orderly and simple manner, possible confusion and frustration can be reduced ahead of time. [read more...](https://github.com/joycema-DH110/DH110-JOYCEMA/blob/main/Assignment%2005)
 
 ### High Fidelity Prototype
 
+**Using a specialized filter to help narrow down caregiver options**
 
+![Task_1_Wireflow](Task1Wireflow.jpg)
+
+Link to Interactive Prototype: https://www.figma.com/proto/7pH1Hx47cAEklWXNQFv7lY/DH110-Wireframes?node-id=5%3A23&scaling=scale-down&page-id=0%3A1
+
+**Organizing caregiver profiles to make background information more accessible**
+
+![Task_2_Wireflow](Task2Wireflows.jpg)
+
+Link to Interactive Prototype: https://www.figma.com/proto/HQPCveykicatzy1HlmK6po/Untitled?node-id=1%3A6&scaling=scale-down&page-id=0%3A1
+
+[read more...](https://github.com/joycema-DH110/DH110-JOYCEMA/blob/main/Assignment%206%20%26%207)
 
 ### Pitch Video
 
