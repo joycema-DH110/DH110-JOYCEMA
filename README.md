@@ -79,7 +79,7 @@ Link to Interactive Prototype: https://www.figma.com/proto/HQPCveykicatzy1HlmK6p
 
 ### Pitch Video
 
-[Pitch Video]()
+[Pitch Video](https://drive.google.com/file/d/1eZeGu-zxKOEPNPemdznpuP69zdhZLAuz/view?usp=sharing)
 
 ### Conclusion
 
