@@ -83,4 +83,8 @@ Link to Interactive Prototype: https://www.figma.com/proto/HQPCveykicatzy1HlmK6p
 
 ### Conclusion
 
+Throughout this whole process, I gained valuable experience with UX/UI design that I did not have previously. I learned how to do the demographic research behind creating a website or app, run tests with participants, draw up wireframes and wireflows, and eventually create a high fidelity prototype of my app. I learned how our internal biases can affect the way we view and use our own apps and websites and how important it is to incorporate the suggestions of participants to improve the user experience. I also learned how intentional design should be and things such as font contrast and size need to be tested in order to make sure the platform is accessible to everyone. 
 
+If I could redo aspects of this project, I would try to find participants in my actual target demographic, which is senior citizens, to run my participant tests. Because of the constraints I faced this quarter I was only able to find peers to evaluate my app, but I know the feedback would have been more relevant from someone who would actually be using the app. Regardless, my peers still offered helpful suggestions to help me improve my prototypes. 
+
+Overall, I felt I learned a lot about UX/UI design this quarter and I feel much more comfortable using platforms such as Github and Figma to complete my work. I am happy I was able to create the prototype of an app that successfully completes the goal I set out to complete: helping senior citizens find a suitable caregiver. 
